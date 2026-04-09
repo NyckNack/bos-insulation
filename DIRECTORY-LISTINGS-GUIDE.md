@@ -10,7 +10,7 @@ Use this EXACT format everywhere. Do NOT vary it (e.g., don't use "St" on one si
 ```
 Business Name:  Bo's Insulation
 Address:        4408 Coltrane Place, Oklahoma City, OK 73121
-Phone:          (405) 555-0123    <-- REPLACE WITH YOUR REAL NUMBER
+Phone:          (405) 437-0146    <-- REPLACE WITH YOUR REAL NUMBER
 Website:        https://www.bosinsulation.com
 Email:          info@bosinsulation.com
 Hours:          Monday–Friday, 8:00 AM – 5:00 PM
@@ -275,7 +275,7 @@ AI systems learn about businesses from web content. Here's how to get mentioned:
 
 ## PHONE NUMBER PLACEHOLDER
 
-Throughout the entire website, the phone number `(405) 555-0123` is used as a placeholder.
+Throughout the entire website, the phone number `(405) 437-0146` is used as a placeholder.
 You MUST do a find-and-replace to put your real phone number before going live.
 
 The following files all contain the placeholder phone number:
@@ -289,6 +289,6 @@ The following files all contain the placeholder phone number:
 
 A quick way to replace it all at once (from the bos-insulation directory):
 ```bash
-find . -name "*.html" -exec sed -i '' 's/(405) 555-0123/(405) YOUR-REAL-NUMBER/g' {} +
-find . -name "*.html" -exec sed -i '' 's/+14055550123/+1405YOURREALNUMBER/g' {} +
+find . -name "*.html" -exec sed -i '' 's/(405) 437-0146/(405) YOUR-REAL-NUMBER/g' {} +
+find . -name "*.html" -exec sed -i '' 's/+14054370146/+14054370146/g' {} +
 ```
