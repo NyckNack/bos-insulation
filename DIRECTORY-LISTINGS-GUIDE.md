@@ -11,7 +11,7 @@ Use this EXACT format everywhere. Do NOT vary it (e.g., don't use "St" on one si
 Business Name:  Bo's Insulation
 Address:        4408 Coltrane Place, Oklahoma City, OK 73121
 Phone:          (405) 437-0146    <-- REPLACE WITH YOUR REAL NUMBER
-Website:        https://www.bosinsulation.com
+Website:        https://bosinsulation.com
 Email:          info@bosinsulation.com
 Hours:          Monday–Friday, 8:00 AM – 5:00 PM
                 Saturday–Sunday: Closed
@@ -29,7 +29,7 @@ Oklahoma City's highest-rated insulation contractor. 5.0 stars, 89+ reviews. Fam
 ## MEDIUM DESCRIPTION (300 characters)
 
 ```
-Bo's Insulation is Oklahoma City's highest-rated insulation contractor — 5.0 stars with 89+ reviews. Founded by the Bohannan brothers, we specialize in existing homes: spray foam, blown-in, attic insulation, injection foam, air sealing, and energy audits. Free estimates. 20% of every project goes to local nonprofits.
+Bo's Insulation is Oklahoma City's highest-rated insulation contractor — 5.0 stars with 89+ reviews. Founded by the Bohannan brothers, we specialize in existing homes and new construction: spray foam, blown-in, attic insulation, injection foam, air sealing, and energy audits. Free estimates. 20% of every project goes to local nonprofits.
 ```
 
 ## FULL DESCRIPTION (use on Google Business, Yelp, etc.)
@@ -37,7 +37,7 @@ Bo's Insulation is Oklahoma City's highest-rated insulation contractor — 5.0 s
 ```
 Bo's Insulation is Oklahoma City's highest-rated insulation contractor, with a perfect 5.0-star rating across Google, HomeAdvisor, Angi, Thumbtack, and the BBB.
 
-Founded by the Bohannan brothers — Keyton and Nicholas — Bo's Insulation is a family-owned company that specializes exclusively in insulating existing homes throughout the OKC metro area. We serve Oklahoma City, Edmond, Norman, Moore, Yukon, Mustang, Midwest City, Del City, and surrounding communities.
+Founded by the Bohannan brothers — Keyton and Nicholas — Bo's Insulation is a family-owned company that specializes in insulating existing homes and new construction throughout the OKC metro area. We serve Oklahoma City, Edmond, Norman, Moore, Yukon, Mustang, Midwest City, Del City, and surrounding communities.
 
 Our services include:
 - Spray Foam Insulation (open-cell and closed-cell)
@@ -55,7 +55,7 @@ What makes Bo's different:
 - Free on-site estimates with honest, competitive pricing
 - We won't sell you something you don't need
 - 8+ years of experience, licensed, insured, and background checked
-- We only do existing homes — that focused expertise means we know older homes inside and out
+- We serve both existing homes and new construction — our deep expertise means we know homes of every era inside and out
 
 Whether your energy bills are too high, your home has hot and cold spots, or you're dealing with drafts, we'll assess your home and give you an honest recommendation. If the work doesn't make sense, we'll tell you — even if it means we don't get the job.
 
@@ -96,7 +96,7 @@ Choose these categories on every platform that offers them:
 - [ ] Business name: `Bo's Insulation` (exact, no keywords stuffed in)
 - [ ] Address: `4408 Coltrane Place, Oklahoma City, OK 73121`
 - [ ] Phone: Your real number
-- [ ] Website: `https://www.bosinsulation.com`
+- [ ] Website: `https://bosinsulation.com`
 - [ ] Hours: Mon-Fri 8AM-5PM
 - [ ] Primary category: `Insulation Contractor`
 - [ ] Additional categories: Add all relevant ones

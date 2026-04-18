@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /.git/
+Disallow: /.vercel/
 
-Sitemap: https://www.bosinsulation.com/sitemap.xml
+Sitemap: https://bosinsulation.com/sitemap.xml

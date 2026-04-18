@@ -1,0 +1,27 @@
+{
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/injection-foam", "destination": "/injection-foam-insulation-oklahoma-city.html", "statusCode": 301 },
+    { "source": "/Injection-Foam", "destination": "/injection-foam-insulation-oklahoma-city.html", "statusCode": 301 },
+    { "source": "/project-cost-calculator", "destination": "/contact.html", "statusCode": 301 },
+    { "source": "/cost-calculator", "destination": "/contact.html", "statusCode": 301 },
+    { "source": "/Cost-Calculator", "destination": "/contact.html", "statusCode": 301 },
+    { "source": "/services", "destination": "/index.html", "statusCode": 301 },
+    { "source": "/Services", "destination": "/index.html", "statusCode": 301 },
+    { "source": "/insulation-types", "destination": "/index.html", "statusCode": 301 },
+    { "source": "/Insulation-Types", "destination": "/index.html", "statusCode": 301 },
+    { "source": "/you-found-us", "destination": "/contact.html", "statusCode": 301 },
+    { "source": "/You-Found-Us", "destination": "/contact.html", "statusCode": 301 },
+    { "source": "/you-found-us!", "destination": "/contact.html", "statusCode": 301 },
+    { "source": "/spray-foam", "destination": "/spray-foam-insulation-oklahoma-city.html", "statusCode": 301 },
+    { "source": "/attic-insulation", "destination": "/attic-insulation-oklahoma-city.html", "statusCode": 301 },
+    { "source": "/blown-in", "destination": "/blown-in-insulation-oklahoma-city.html", "statusCode": 301 },
+    { "source": "/wall-insulation", "destination": "/wall-insulation-oklahoma-city.html", "statusCode": 301 },
+    { "source": "/insulation-removal", "destination": "/insulation-removal-oklahoma-city.html", "statusCode": 301 },
+    { "source": "/air-sealing", "destination": "/air-sealing-oklahoma-city.html", "statusCode": 301 },
+    { "source": "/energy-audit", "destination": "/energy-audit-oklahoma-city.html", "statusCode": 301 },
+    { "source": "/about", "destination": "/about.html", "statusCode": 301 },
+    { "source": "/contact", "destination": "/contact.html", "statusCode": 301 },
+    { "source": "/blog", "destination": "/blog/", "statusCode": 301 }
+  ]
+}

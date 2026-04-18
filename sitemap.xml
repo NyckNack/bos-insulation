@@ -3,166 +3,658 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://www.bosinsulation.com/</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- About -->
   <url>
-    <loc>https://www.bosinsulation.com/about.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/about.html</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
   </url>
 
   <!-- Contact -->
   <url>
-    <loc>https://www.bosinsulation.com/contact.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/contact.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- ==================== SERVICE PAGES (OKC) ==================== -->
+  <url>
+    <loc>https://bosinsulation.com/spray-foam-insulation-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/attic-insulation-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/blown-in-insulation-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/injection-foam-insulation-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/wall-insulation-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-removal-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/air-sealing-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/energy-audit-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/new-construction-insulation-oklahoma-city.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ==================== CITY LANDING PAGES (Tier 1) ==================== -->
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-edmond-ok.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-norman-ok.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-moore-ok.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-yukon-ok.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-mustang-ok.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-midwest-city-ok.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-del-city-ok.html</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Service Pages -->
+  <!-- ==================== SERVICE + CITY COMBO PAGES ==================== -->
+
+  <!-- Spray Foam - Cities -->
   <url>
-    <loc>https://www.bosinsulation.com/spray-foam-insulation-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/spray-foam-insulation-edmond-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/attic-insulation-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/spray-foam-insulation-norman-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/blown-in-insulation-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/spray-foam-insulation-moore-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/injection-foam-insulation-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/spray-foam-insulation-yukon-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/wall-insulation-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/spray-foam-insulation-mustang-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/insulation-removal-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/spray-foam-insulation-midwest-city-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/air-sealing-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/spray-foam-insulation-guthrie-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.bosinsulation.com/energy-audit-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
 
-  <!-- City/Area Pages -->
+  <!-- Attic Insulation - Cities -->
   <url>
-    <loc>https://www.bosinsulation.com/insulation-contractor-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/attic-insulation-edmond-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/insulation-contractor-edmond-ok.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/attic-insulation-norman-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/insulation-contractor-norman-ok.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/attic-insulation-moore-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/insulation-contractor-moore-ok.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/attic-insulation-yukon-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/insulation-contractor-yukon-ok.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/attic-insulation-mustang-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/insulation-contractor-mustang-ok.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/attic-insulation-midwest-city-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/insulation-contractor-midwest-city-ok.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/attic-insulation-guthrie-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.bosinsulation.com/insulation-contractor-del-city-ok.html</loc>
-    <lastmod>2025-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
-  <!-- Blog -->
+  <!-- Blown-In Insulation - Cities -->
   <url>
-    <loc>https://www.bosinsulation.com/blog/</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/blown-in-insulation-edmond-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/blown-in-insulation-norman-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/blown-in-insulation-moore-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/blown-in-insulation-yukon-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/blown-in-insulation-mustang-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/blown-in-insulation-midwest-city-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/blown-in-insulation-guthrie-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Injection Foam Insulation - Cities -->
+  <url>
+    <loc>https://bosinsulation.com/injection-foam-insulation-edmond-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/injection-foam-insulation-norman-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/injection-foam-insulation-moore-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/injection-foam-insulation-yukon-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/injection-foam-insulation-mustang-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/injection-foam-insulation-midwest-city-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/injection-foam-insulation-guthrie-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Insulation Removal - Cities -->
+  <url>
+    <loc>https://bosinsulation.com/insulation-removal-edmond-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-removal-norman-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-removal-moore-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-removal-yukon-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-removal-mustang-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-removal-midwest-city-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-removal-guthrie-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- New Construction Insulation - Cities -->
+  <url>
+    <loc>https://bosinsulation.com/new-construction-insulation-edmond-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/new-construction-insulation-norman-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/new-construction-insulation-moore-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/new-construction-insulation-yukon-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/new-construction-insulation-mustang-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/new-construction-insulation-midwest-city-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/new-construction-insulation-guthrie-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ==================== TIER 2 CITY PAGES ==================== -->
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-bethany-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-guthrie-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-el-reno-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-tuttle-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-choctaw-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-newcastle-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-blanchard-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-noble-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-piedmont-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-harrah-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-jones-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-luther-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-arcadia-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-bridge-creek-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-deer-creek-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-forest-park-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-nichols-hills-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-nicoma-park-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-spencer-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-the-village-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-valley-brook-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-warr-acres-ok.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Neighborhood Pages (OKC neighborhoods) -->
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-capitol-hill-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-crown-heights-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-gatewood-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-heritage-hills-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-lake-hefner-area-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-mesta-park-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-northeast-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-northwest-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-paseo-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-plaza-district-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-putnam-city-area-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-quail-creek-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-south-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bosinsulation.com/insulation-contractor-western-heights-area-okc.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- ==================== BLOG ==================== -->
+  <url>
+    <loc>https://bosinsulation.com/blog/</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Blog Posts -->
   <url>
-    <loc>https://www.bosinsulation.com/blog/how-much-does-attic-insulation-cost-oklahoma-city.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/blog/how-much-does-attic-insulation-cost-oklahoma-city.html</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/blog/spray-foam-vs-blown-in-insulation-guide.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/blog/spray-foam-vs-blown-in-insulation-guide.html</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/blog/signs-your-home-needs-new-insulation.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/blog/signs-your-home-needs-new-insulation.html</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/blog/oge-rebates-insulation-oklahoma.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/blog/oge-rebates-insulation-oklahoma.html</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.bosinsulation.com/blog/why-bohannan-brothers-started-bos-insulation.html</loc>
-    <lastmod>2025-04-08</lastmod>
+    <loc>https://bosinsulation.com/blog/why-bohannan-brothers-started-bos-insulation.html</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
 
 </urlset>
